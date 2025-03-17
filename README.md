@@ -2,15 +2,21 @@
 
 A sleek, responsive admin dashboard for e-commerce businesses to manage their online operations efficiently with real-time insights.
 
-![Shopdash Dashboard](https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80)
+![image](https://github.com/user-attachments/assets/518dc5d5-261b-4560-925d-6d479d4a1740)
 
 ## Features
+
+![image](https://github.com/user-attachments/assets/acd4f097-5d05-441a-92a2-becd6aef4b51)
+
 
 - **Analytics Dashboard** - Interactive charts and KPIs showing sales trends, customer acquisition, and revenue metrics
 - **Inventory Management** - Grid view of products with search, filter, and quick-edit capabilities
 - **Order Processing** - Streamlined workflow for viewing, processing, and tracking customer orders
 - **Responsive Design** - Clean, minimalist UI with dark/light mode toggle and mobile-friendly layouts
 - **Role-based Access** - Customizable permissions for different team members
+
+![image](https://github.com/user-attachments/assets/9ba436bb-f6ae-4a96-93fb-c5cac2180926)
+
 
 ## Tech Stack
 
@@ -26,6 +32,9 @@ A sleek, responsive admin dashboard for e-commerce businesses to manage their on
 - Node.js 18+ and npm
 - Supabase account
 - Stripe account (for payment processing)
+![image](https://github.com/user-attachments/assets/7ca7eeab-fb09-4d75-9e49-29f6c0ae1797)
+
+
 
 ### Installation
 
